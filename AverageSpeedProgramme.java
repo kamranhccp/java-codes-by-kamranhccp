@@ -1,4 +1,4 @@
-//Average Speed in Kilometer by IG@kamran_hccp
+//Average Speed in Kilometer per Hour by IG@kamran_hccp
 import java.util.Scanner;
 public class AverageSpeedProgramme {
     public static void main(String [] args){
@@ -74,5 +74,5 @@ public class AverageSpeedProgramme {
 
     }
 }
-//Average Speed in Kilometer by IG@kamran_hccp
+//Average Speed in Kilometer per Hour by IG@kamran_hccp
 
